@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(161, 152, 152);
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    border: 1px; ;
+    border-color: white;
+    
+    
+
+}
+div {
+    margin-left: 20px;
+    
+}
+
+div{
+    color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
